@@ -1,15 +1,8 @@
 Swap Demo
 This project is a simple demonstration of token swapping functionality using Web3.js and the 0x API.
 
-Installation
-To run this project locally, follow these steps:
-
-Clone the repository to your local machine: git clone <repository-url>
-
-Navigate to the project directory: cd <project-directory>
-
+Installation:-
 Install the required dependencies: npm install
-
 Bundle the index.js file using Browserify: browserify index.js -o bundle.js
 
 Usage
